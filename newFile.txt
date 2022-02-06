@@ -1,3 +1,9 @@
+Name: Jake Sandelin - jakeSandelinColorado
+Partner: Cole Gaito -  gaitocole
+
+
+
+
 remote: Enumerating objects: 5, done.
 remote: Counting objects: 100% (5/5), done.
 remote: Compressing objects: 100% (2/2), done.
